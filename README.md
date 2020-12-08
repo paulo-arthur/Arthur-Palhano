@@ -6,8 +6,6 @@
 - 🥅 2020 Goals: I learned the basics of React and ReactNative, and I started to delve deeper into React and ReactNative
 - ⚡ Fun fact: I love making origami and play guitar
 
-### Spotify Playing 🎧
-
 ### Connect with me:
 
 [<img align="left" alt="arthur-palhano.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -46,13 +44,10 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Arthur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthur-palhano&show_icons=true&hide_border=true&theme=dark" />
 
-</details>
-
-[website]: arthur-palhano.github.io/
+[website]: https://arthur-palhano.github.io/
 [gmail]: mailto:pauloart.hur670@gmail.com
 [instagram]: https://instagram.com/pauloarthr
