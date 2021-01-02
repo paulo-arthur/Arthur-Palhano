@@ -1,9 +1,9 @@
 # Hello, I'm Arthur 👋
 ## I'm a Student, Programer, and a Brazilian Guy!!
 
-- 🌱 I’m currently learning React and ReactNative
+- 🌱 I’m currently learning Golang
 - 👾 I intend to get more programming experience even before entering college
-- 🥅 2020 Goals: I learned the basics of React and ReactNative, and I started to delve deeper into React and ReactNative
+- 🥅 2021 Goals: I'm focused in learn Golang, and I started to delve deeper into React and ReactNative
 - ⚡ Fun fact: I love making origami and play guitar
 
 ### Connect with me:
