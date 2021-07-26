@@ -1,5 +1,5 @@
 # Hello, I'm Arthur 👋
-## I'm a Student, Programer, and a Brazilian Guy!!
+## Student, Programer, and Brazilian!!
 
 - 🌱 I’m currently learning Golang
 - 👾 I intend to get more programming experience even before entering college
