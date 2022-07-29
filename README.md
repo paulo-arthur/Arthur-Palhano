@@ -40,10 +40,5 @@
 
 ---
 
-
-### GitHub Stats
-
-<img align="left" alt="Arthur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthur-palhano&show_icons=true&hide_border=true&theme=dark" />
-
 [gmail]: mailto:pauloart.hur670@gmail.com
 [instagram]: https://instagram.com/pauloarthr
