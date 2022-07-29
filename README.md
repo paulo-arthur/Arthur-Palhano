@@ -1,14 +1,9 @@
 # Hello, I'm Arthur 👋
 ## Student, Programer, and Brazilian!!
-
-- 🌱 I’m currently learning Golang
-- 👾 I intend to get more programming experience even before entering college
-- 🥅 2021 Goals: I'm focused in learn Golang, and I started to delve deeper into React and ReactNative
-- ⚡ Fun fact: I love making origami and play guitar
+## 👾 I intend to get more programming experience even before entering college
 
 ### Connect with me:
 
-[<img align="left" alt="arthur-palhano.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Arthur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Arthur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -50,6 +45,5 @@
 
 <img align="left" alt="Arthur's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthur-palhano&show_icons=true&hide_border=true&theme=dark" />
 
-[website]: https://arthur-palhano.github.io/
 [gmail]: mailto:pauloart.hur670@gmail.com
 [instagram]: https://instagram.com/pauloarthr
