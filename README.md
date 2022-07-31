@@ -30,5 +30,6 @@
 
 <br />
 <br />
+<hr/>
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-arthur&show_icons=true&theme=prussian)
