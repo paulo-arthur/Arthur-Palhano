@@ -2,11 +2,6 @@
 ## Student, Programer, and Brazilian!!
 ## 👾 I intend to get more programming experience even before entering college
 
-### Connect with me:
-
-[<img align="left" alt="Arthur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Arthur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -36,9 +31,4 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-arthur)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[gmail]: mailto:pauloart.hur670@gmail.com
-[instagram]: https://instagram.com/pauloarthr
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=prussian)
