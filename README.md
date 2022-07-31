@@ -31,4 +31,4 @@
 <br />
 <br />
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=prussian)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-arthur&show_icons=true&theme=prussian)
